@@ -1,8 +1,5 @@
 /*
- * figure out which are the newest files in a subtree
- * copy them to a destination subtree, deleting enough
- * of the oldest ones in the destination to keep it
- * from growing beyond some defined limit
+ * process a CSV file into XML-compatible syntax
  */
 
 #include <stdio.h>
